@@ -4,7 +4,7 @@
 # Descripción
 El código de la flor sigue la tendencia de TikTok. La página web es totalmente responsiva y puedes ajustar los estilos directamente en el archivo CSS --> style.css
 
-# Autoría
+# Autor
 - Flower Code: Md Usman Ansari (@MdUsmanAnsari)
 - Index Code: NILVER TI
 
